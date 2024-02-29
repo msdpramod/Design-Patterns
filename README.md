@@ -1,5 +1,7 @@
 # Solid Principles
-
+1. Why do we use solid principles?
+2. 
+3. what are solid principles
    1. [Single Responsibility Principle](https://www.geeksforgeeks.org/single-responsibility-in-solid-design-principle/amp/)
    2. [Open closed Principle](https://www.geeksforgeeks.org/open-closed-design-principle-in-java/)
    3. [Liskov substitution Principle]
