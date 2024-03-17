@@ -1,5 +1,5 @@
 # Solid Principles
-   [S.O.L.I.D principles](https://medium.com/@ObitoUchia/s-o-l-i-d-principles-c91f710d504a)
+   [S.O.L.I.D Principles](https://medium.com/@ObitoUchia/s-o-l-i-d-principles-c91f710d504a)
 # Design Patterns
 1. Creational Patterns
    1. [Singleton]
